@@ -2,3 +2,6 @@ chocomousse
 
 chocolade
 eieren
+melk 
+water
+boter
